@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 16 Dec 2022 11:47:42 GMT
+ * Generated on Mon, 19 Dec 2022 14:31:32 GMT
  */
 
 :root {
@@ -10,7 +10,7 @@
   --sd-global-primary-400: #a4a7ef;
   --sd-global-primary-500: #c7caf5;
   --sd-global-primary-600: #ededfc;
-  --sd-global-primary-main: #3e45d4;
-  --sd-global-small: 8;
-  --sd-global-size-l: 48;
+  --sd-global-primary-main: #0fd933;
+  --sd-global-small: 50px;
+  --sd-global-size-l: 48px;
 }
